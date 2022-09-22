@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niigwa
 - 👀 I’m interested in everything 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me email
 
